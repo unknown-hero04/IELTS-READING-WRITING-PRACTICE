@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Academic Simulator",
+  "description": "A fully functional Academic IELTS Computer-Based Simulator that mimics the British Council's official test environment. It provides a realistic experience for the Listening, Reading, and Writing sections, complete with AI-powered content generation, band scoring, and structured feedback.",
+  "requestFramePermissions": []
+}
